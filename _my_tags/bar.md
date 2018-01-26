@@ -1,0 +1,4 @@
+---
+slug: bar
+name: Bar
+---
