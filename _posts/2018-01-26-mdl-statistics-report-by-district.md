@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "January 2018 - District"
-description: "MDL Statistics Report by district graphically displayed."
+description: "Doughnut chart displaying the MDL Statistics Report by district."
 tags: [district, doughnut]
 ---
 

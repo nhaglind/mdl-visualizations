@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "January 2018 - Docket Type"
-description: "MDL Statistics Report by docket type graphically displayed."
+description: "Bar chart displaying the MDL Statistics Report by docket type."
 tags: [docket, bar]
 ---
 
