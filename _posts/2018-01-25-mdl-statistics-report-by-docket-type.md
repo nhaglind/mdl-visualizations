@@ -57,5 +57,11 @@ var myChart = new Chart(ctx, {
 </script>
 
 <br>
-Based on the data located <a href="http://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Type-January-16-2018.pdf">here.</a>
+<p><strong>Products liability</strong> is sitting comfortably as the docket type with most filings and is primarily made up of pharmaceutical and medical device companies. This category is often associated with all the commercials being aired during Judge Judy and People's Court. It's interesting to look at what doesn't fall under the all other categories and is slotted as "miscellaneous." A fair amount of these unique filings appear to be surrounding the <a href="https://en.wikipedia.org/wiki/Telephone_Consumer_Protection_Act_of_1991">Telephone Consumer Protection Act (TCPA)</a> and data breaches which we saw way too much of in 2017. The prevalent filings listed here include Yahoo, Equifax, and Ashley Madison.</p> 
+
+<p>The second largest category <strong>Antitrust</strong> doesn't seem to stick to any one industry nor have any allegiances and can exist anywhere ranging from vitamins, shipping, computer parts, and merchant fees.</p>
+
+<p>Keep in mind, many of these filings started over a decade ago with filing dates as early as 1991 with Asbestos or in 2001 with Enron's Securities, Derivative & "ERISA" Litigation.</p>
+<p>Based on the data located <a href="http://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Type-January-16-2018.pdf">here.</a>
+</p>
 
