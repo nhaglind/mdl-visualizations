@@ -45,5 +45,8 @@ var myChart = new Chart(ctx, {
 </script>
 
 <br>
+<p>Currently we're seeing the popular blood thinner Xarelto continue to be the center of attention in these product liability cases so it's no surprise that it's at the top of the list with <strong>19,779 actions now pending</strong>.</p>
+
+<p>Ethicon's Pelvic Repair System (historically) is holding the most actions of these 10, but what's not included here (due to only have 295 pending actions) is the forever lasting Asbestos litigation that has had <strong>192,084 total actions</strong> which is significantly higher than anything else that is on the report.</p>
 Based on the data located <a href="http://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-January-16-2018.pdf">here.</a>
 
