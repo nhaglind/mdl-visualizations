@@ -57,7 +57,7 @@ var myChart = new Chart(ctx, {
 </script>
 
 <br>
-<p><strong>Products liability</strong> is sitting comfortably as the docket type with most filings and is primarily made up of pharmaceutical and medical device companies. This category is often associated with all the commercials being aired during Judge Judy and People's Court. It's interesting to look at what doesn't fall under the all other categories and is slotted as "miscellaneous." A fair amount of these unique filings appear to be surrounding the <a href="https://en.wikipedia.org/wiki/Telephone_Consumer_Protection_Act_of_1991">Telephone Consumer Protection Act (TCPA)</a> and data breaches which we saw way too much of in 2017. The prevalent filings listed here include Yahoo, Equifax, and Ashley Madison.</p> 
+<p><strong>Products liability</strong> is sitting comfortably as the docket type with most filings and is primarily made up of pharmaceutical and medical device companies. This category is often associated with all the commercials being aired during Judge Judy and People's Court. It's interesting to look at what doesn't fall under any of the other categories and is slotted as "miscellaneous." A fair amount of these unique filings appear to be surrounding the <a href="https://en.wikipedia.org/wiki/Telephone_Consumer_Protection_Act_of_1991">Telephone Consumer Protection Act (TCPA)</a> and data breaches which we saw way too much of in 2017. The prevalent filings listed here include Yahoo, Equifax, and Ashley Madison.</p> 
 
 <p>The second largest category <strong>Antitrust</strong> doesn't seem to stick to any one industry nor have any allegiances and can exist anywhere ranging from vitamins, shipping, computer parts, and merchant fees.</p>
 
