@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "January 2018 - Docket Type"
+permalink: /:month-:day-:year/:title.html
 description: "Bar chart displaying the MDL Statistics Report by docket type."
 tags: [docket, bar]
 ---

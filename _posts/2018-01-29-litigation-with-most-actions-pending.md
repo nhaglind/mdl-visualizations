@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "January 2018 - Litigation with Most Actions Pending"
+permalink: /:month-:day-:year/:title.html
 description: "Top 10 cases with most actions pending as of January 16, 2018."
 tags: [actions, bar]
 ---
