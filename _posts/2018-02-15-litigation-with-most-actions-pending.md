@@ -38,7 +38,10 @@ var myChart = new Chart(ctx, {
     },
     scales: {
       xAxes: [{
-        stacked: true
+        stacked: true,
+        ticks: {
+          autoSkip: false
+        }
       }],
       yAxes: [{
         stacked: false
@@ -75,7 +78,10 @@ var myChart = new Chart(ctx, {
     },
     scales: {
       xAxes: [{
-        stacked: true
+        stacked: true,
+        ticks: {
+          autoSkip: false
+        }
       }],
       yAxes: [{
         stacked: false
