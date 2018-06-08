@@ -48,6 +48,8 @@ var myChart = new Chart(ctx, {
 });
 </script>
 
+Notable change:
+
 Boston Scientific's Pelvic Repair System case has slid out of the top 10 but still a prevalent case to watch. What climbed quickly within the recent months were Proton-Pump Inhibitor (PPI) drugs. This includes the widely popular Prilosec (omeprazole) and Nexium (esomeprazole) which allegedly is causing kidney problems.
 
 Based on the data located <a href="http://www.jpml.uscourts.gov/sites/jpml/files/Pending_MDL_Dockets_By_Actions_Pending-May-15-2018.pdf">here.</a>
